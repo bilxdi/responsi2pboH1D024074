@@ -7,3 +7,8 @@ Apa yang terjadi jika kita mencoba mengubah nilai suatu konstanta setelah objek 
 Bagaimana cara mendefinisikan konstanta dalam bahasa Java?
 
 Jawaban
+
+Fungsi mengembalikan value / return dan Prosedur tidak mengembalikan value tidak return
+Karena dengan menggunakan konstanta, kita bisa membuatnya tidak dapat diubah
+Akan error, final double faktor=1.2; -> Pengguna user=new Pengguna(); -> user.faktor=1.5; -> error
+Dengan memberi atribut final pada variabel atau class
