@@ -9,3 +9,9 @@
 4. Bagaimana keyword super membantu membedakan atribut yang memiliki nama sama antara parent dan child?
 
 5. Mengapa pendekatan inheritance lebih efisien dibanding menyalin ulang seluruh atribut dan method ke dalam class Member?
+
+1. Karena member adalah anak dari customer jadi variabel dari customer harus diisi dulu
+2. Agar menghemat kode dengan tidak perlu menulis print nya lagi terutama yang variabel sama dari induk
+3. Seperti di soal pert4 ini saat anak perlu tampilin info tambahan tapi masih mau nampilin info induk
+4. Dengan pake super. jadi tau yang mana yang dari induk yang mana yang anak, kalo pake super otomatis bakal mencari di punya induk seperti semacam this.
+5. Nggak perlu nulis ulang banyak kode selain itu lebih mudah kalo mau ada yang mau diubah jadi nggak usah ubah di kelas anak juga
