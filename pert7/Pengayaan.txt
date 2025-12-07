@@ -6,3 +6,9 @@ Setelah menyelesaikan kode, jawab pertanyaan berikut:
 3. Apa tujuan penggunaan keyword "implements" pada sebuah class?
 4. Apakah sebuah class dapat mengimplementasikan lebih dari satu interface? Jelaskan dan berikan contoh sederhana.
 5. Jika sebuah class mengimplementasikan interface, apa yang terjadi jika class tersebut tidak mengimplementasikan semua method dari interface tersebut?
+
+1. Interface berisi kontrak, tidak punya perilaku
+2. Karena interface berfungsi sebagai kontrak perilaku, anak nya yang buat
+3. Menunjukkan bahwa class tersebut berarti ber kontrak ke interface
+4. Ya bisa, class Orang implements BisaBerjalan, BisaBerbicara { }
+5. Error karena kontrak interface tidak dipenuhi
