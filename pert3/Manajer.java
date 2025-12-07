@@ -1,5 +1,5 @@
 // Gunakan keyword untuk mewarisi class Karyawan
-class Manajer ... {
+//class Manajer ... {
     // Deklarasikan variabel tambahan khusus Manajer (tunjangan)
     
     
@@ -9,8 +9,8 @@ class Manajer ... {
     
     // Method Override tampilInfo
     // Tips: Tampilkan info dasar, lalu tambahkan info tunjangan dan total gaji
-    @Override
-    void tampilInfo() {
+//    @Override
+//    void tampilInfo() {
         
-    }
-}
+//    }
+//}
