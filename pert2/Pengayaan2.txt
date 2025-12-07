@@ -8,3 +8,8 @@ Jelaskan konsep encapsulation dan bagaimana method dapat membantu melindungi dat
 Mengapa constructor tidak memiliki return type, bahkan tidak menggunakan kata kunci void?
 
 Jawaban
+Membuat construktor lagi dengan parameter yang berbeda untuk situasi yang berbeda
+Melalui fitur overloading constructor
+Jika menggunakan setter akan lebih aman, fleksibel, dan terkontrol
+Mengontrol bagaimana perubahan dengan menggunakan atribut dan dengan menggunakan method kita bisa mengatur bagaimana data akan masuk ke contohnya variabel
+Karena construktor adalah semacam method spesial yang digunakan untuk menginisialisasi objek
