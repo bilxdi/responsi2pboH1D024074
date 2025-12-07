@@ -1,3 +1,5 @@
+package pert4;
+
 public class UjiCustomer {
     public static void main(String[] args) {
 

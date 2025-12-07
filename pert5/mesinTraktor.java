@@ -1,3 +1,5 @@
+package pert5;
+
 //class mesinTraktor extends defaultMesin {
 //    // Variabel khusus mesin traktor (kapasitasTarik)
 //

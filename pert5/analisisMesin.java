@@ -1,3 +1,5 @@
+package pert5;
+
 class analisisMesin {
     public static void main(String[] args) {
 

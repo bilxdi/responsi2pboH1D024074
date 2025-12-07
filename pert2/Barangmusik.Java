@@ -1,3 +1,5 @@
+package pert2;
+
 class BarangMusik {
     // Deklarasikan variabel/state yang diperlukan di sini
     

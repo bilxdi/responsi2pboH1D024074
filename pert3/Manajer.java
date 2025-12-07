@@ -1,3 +1,5 @@
+package pert3;
+
 // Gunakan keyword untuk mewarisi class Karyawan
 //class Manajer ... {
     // Deklarasikan variabel tambahan khusus Manajer (tunjangan)

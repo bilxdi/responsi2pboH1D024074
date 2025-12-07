@@ -1,3 +1,5 @@
+package pert2;
+
 //lass UjiBarang {
 //    public static void main(String[] args) {
 //        // Buat objek barang pertama gitar

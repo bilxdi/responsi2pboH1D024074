@@ -1,3 +1,5 @@
+package pert4;
+
 class Customer {
     // TODO: Buatkan atribut
 

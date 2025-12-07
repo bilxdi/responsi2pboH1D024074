@@ -1,3 +1,5 @@
+package pert5;
+
 class defaultMesin {
     // Variabel umum mesin (namaMesin, tenagaHP)
 

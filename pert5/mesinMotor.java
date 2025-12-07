@@ -1,3 +1,5 @@
+package pert5;
+
 //class mesinMotor extends defaultMesin {
 //    // Variabel khusus mesin motor (tipeMotor)
 //

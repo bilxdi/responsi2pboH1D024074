@@ -1,3 +1,5 @@
+package pert4;
+
 class Member extends Customer {
     // TODO: Tambahkan atribut tambahan
 

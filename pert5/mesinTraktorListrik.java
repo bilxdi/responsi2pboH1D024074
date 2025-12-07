@@ -1,3 +1,5 @@
+package pert5;
+
 //class mesinTraktorListrik extends mesinTraktor {
 //    // Variabel khusus mesin traktor listrik (kapasitasBaterai)
 //

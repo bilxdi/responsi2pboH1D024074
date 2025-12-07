@@ -1,3 +1,5 @@
+package pert3;
+
 class Karyawan {
     // Deklarasikan variabel/state dasar (nama, gajiPokok)
     // Gunakan access modifier yang tepat agar bisa diakses oleh subclass (misal: protected)
