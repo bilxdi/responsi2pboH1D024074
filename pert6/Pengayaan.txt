@@ -6,3 +6,9 @@ Setelah menyelesaikan kode, jawab pertanyaan berikut:
 3. Mengapa subclass wajib mengimplementasikan semua abstract method dari parent class?
 4. Mengapa abstract method tidak boleh memiliki isi implementasi di dalam abstract class?
 5. Bagaimana abstract class dapat mendukung konsep polimorfisme, dan mengapa objek yang direferensikan melalui tipe abstract class tetap dapat menjalankan perilaku berbeda pada masing-masing subclass?
+
+1. Untuk membuat semacam blueprint dari class
+2. Abstract tidak bisa dibuat objek kalo biasa bisa dibuat objek
+3. Karena memang sudah menjadi kontrak
+4. Karena memang sudah seharusnya menjadi tugas anaknya
+5. Karena sesuatu bisa menjadi berbeda walaupun tetap satu. Karena itulah polimorfisme
